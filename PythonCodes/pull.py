@@ -4,18 +4,15 @@ import ssl
 # this is the workaround for the SSL certificate error
 context = ssl._create_unverified_context()
 
-# URL to the file
-""" urls = [
-    'https://onexi.org/catalog/m1a.html',
-    'https://onexi.org/catalog/m1b.html',
-] """
+folderpath='newdata/' # folder to save the files
+baseurl='https://www.bu.edu/academics/cas/courses/' # base URL for catalog
 
 urls=[]
 
-for i in range(5):
-    urls.append('https://www.bu.edu/academics/cas/courses/'+str(i))
+# loop through the pages
+for i in range(1,3):
+    urls.append(baseurl+str(i))
 
-print(urls)
 
 # fetch content
 def pull(url):
@@ -28,7 +25,7 @@ def pull(url):
 
 # save file
 def store(data, file):
-    f = open('data/' + file, 'w')
+    f = open(folderpath + file, 'w')
     f.write(data)
     f.close()
     print('File saved as ' + file)
