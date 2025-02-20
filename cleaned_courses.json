@@ -1,0 +1,174 @@
+[
+    {
+        "title": "Introduction to African American Literature",
+        "code": "CAS AA 103",
+        "description": "Undergraduate Prerequisites: First-Year Writing Seminar (WR 120 or equivalent) - What is the African American literary tradition? In this course, we will read poetry, slave narratives, essays, speeches, tales, short stories, and novels and consider how culture, politics, and history shape African American literature. Carries humanities divisional credit in CAS. Effective Fall 2018, this course fulfills a single unit in each of the following BU Hub areas: Aesthetic Exploration, Global Citizenship and Intercultural Literacy. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Aesthetic Exploration, Global Citizenship and Intercultural Literacy, Critical Thinking. Effective Fall 2022, this course fulfills a single unit in each of the following BU Hub areas: Writing-Intensive Course, Global Citizenship and Intercultural Literacy, Critical Thinking.",
+        "units": "N/A",
+        "schedule": [
+            {
+                "section": "A1",
+                "instructor": "Boelcskevy",
+                "location": "STH B22",
+                "schedule": "MWF 10:10 am-11:00 am",
+                "notes": "Mts w/CAS EN129"
+            }
+        ]
+    },
+    {
+        "title": "Black Power in the Classroom: The History of Black Studies",
+        "code": "CAS AA 112",
+        "description": "Centers Black experiences, cultures, knowledge production and identity formation in the United States and in the African Diaspora across time and space. Examines and traces the genealogies of Black Studies as a discipline: its political, ideological, and practical foundations on college campuses and in communities. Also explores earlier traditions and contemporary work in Black radical thought and activism that lay the groundwork for and build on the founding principles of Black Studies by mobilizing an intersectional and diasporic lens. Effective Fall 2020, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, Social Inquiry I, Research and Information Literacy.",
+        "units": "N/A",
+        "schedule": [
+            {
+                "section": "A1",
+                "instructor": "Williams",
+                "location": "CAS 426",
+                "schedule": "TR 12:30 pm-1:45 pm",
+                "notes": "Mts w/CAS HI112"
+            }
+        ]
+    },
+    {
+        "title": "Kongo to Cuba: Art, Exchange, and Self-Determination in Africa and Latin America",
+        "code": "CAS AA 114",
+        "description": "This course introduces the arts of Africa and Latin America. It explores the rich diversity of each continent's artistic production and highlights the impact of their intertwining histories on visual expression in the wake of transcontinental exchange and globalization. Effective Fall 2022, this course fulfills a single unit in each of the following BU Hub areas: Global Citizenship and Intercultural Literacy, Aesthetic Exploration, Critical Thinking.",
+        "units": "N/A",
+        "schedule": [
+            {
+                "section": "A1",
+                "instructor": "Becker",
+                "location": "CAS 313",
+                "schedule": "MWF 1:25 pm-2:15 pm",
+                "notes": "Mts w/CAS AH114"
+            },
+            {
+                "section": "B1",
+                "instructor": "Becker",
+                "location": "CAS B25B",
+                "schedule": "M 3:35 pm-4:25 pm",
+                "notes": "Mts w/CAS AH114"
+            },
+            {
+                "section": "C1",
+                "instructor": "Becker",
+                "location": "CAS B25B",
+                "schedule": "M 4:40 pm-5:30 pm",
+                "notes": "Mts w/CAS AH114"
+            },
+            {
+                "section": "D1",
+                "instructor": "Becker",
+                "location": "CAS 212",
+                "schedule": "W 9:05 am-9:55 am",
+                "notes": "Mts w/CAS AH114"
+            },
+            {
+                "section": "E1",
+                "instructor": "Becker",
+                "location": "CAS 308",
+                "schedule": "W 10:10 am-11:00 am",
+                "notes": "Mts w/CAS AH114"
+            }
+        ]
+    },
+    {
+        "title": "Write Back Soon: Blackness and the Prison",
+        "code": "CAS AA 132",
+        "description": "This course interrogates the theme of black containment from slavery and Jim Crow to, principally, mass incarceration. Students explore the topic alongside the development of open letter writing skills. This form explores the persuasive impact of personal relationships and the politics of public vulnerabilities. Readings include letters to and from prison, documentaries, poetry, short stories, anthologies, memoirs, comics, visual art, and critical interventions. We also look at contemporary projects organizing for abolition and prisoner support.. Effective Fall 2021, this course fulfills a single unit in each of the following BU Hub areas: The Individual in Community, Aesthetic Exploration, Critical Thinking.",
+        "units": "N/A",
+        "schedule": []
+    },
+    {
+        "title": "Sociology of Race and Ethnicity",
+        "code": "CAS AA 207",
+        "description": "Examines the fundamental theoretical and empirical approaches regarding race/ethnicity and the current state of race relations in the U.S. that explore both contemporary social problems. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Historical Consciousness, The Individual in Community, Research and Information Literacy.",
+        "units": "N/A",
+        "schedule": [
+            {
+                "section": "A1",
+                "instructor": "Grundy",
+                "location": "WED 130",
+                "schedule": "TR 9:30 am-10:45 am",
+                "notes": "Mts w/CAS SO207 ; Students registering for CAS AA207 A1 lecture must also register for CAS AA207 A(2-4) discussion."
+            },
+            {
+                "section": "A2",
+                "instructor": "Grundy",
+                "location": "MCS B33",
+                "schedule": "F 9:05 am-9:55 am",
+                "notes": "Mts w/CAS SO207"
+            },
+            {
+                "section": "A3",
+                "instructor": "Grundy",
+                "location": "CAS 204B",
+                "schedule": "F 10:10 am-11:00 am",
+                "notes": "Mts w/CAS SO207"
+            },
+            {
+                "section": "A4",
+                "instructor": "Grundy",
+                "location": "KCB 102",
+                "schedule": "F 12:20 pm-1:10 pm",
+                "notes": "Mts w/CAS SO207"
+            },
+            {
+                "section": "A5",
+                "instructor": "Grundy",
+                "location": "PRB 146",
+                "schedule": "F 2:30 pm-3:20 pm",
+                "notes": "Mts w/CAS SO207"
+            },
+            {
+                "section": "A1",
+                "instructor": "Grundy",
+                "location": "CAS 522",
+                "schedule": "TR 11:00 am-12:15 pm",
+                "notes": "Mts w/CAS SO207"
+            },
+            {
+                "section": "B1",
+                "instructor": "Campos Jr",
+                "location": "FLR 122",
+                "schedule": "W 9:05 am-9:55 am",
+                "notes": ""
+            },
+            {
+                "section": "C1",
+                "instructor": "Campos Jr",
+                "location": "COM 217",
+                "schedule": "W 10:10 am-11:00 am",
+                "notes": ""
+            },
+            {
+                "section": "D1",
+                "instructor": "King",
+                "location": "SOC B59",
+                "schedule": "W 1:25 pm-2:15 pm",
+                "notes": ""
+            },
+            {
+                "section": "E1",
+                "instructor": "King",
+                "location": "PRB 148",
+                "schedule": "W 12:20 pm-1:10 pm",
+                "notes": ""
+            }
+        ]
+    },
+    {
+        "title": "Arts of Africa and Its Diaspora",
+        "code": "CAS AA 215",
+        "description": "Exploration of a diversity of visual and performing arts from Africa, including royal regalia, masquerades, and contemporary painting. Examines how the dispersal of Africans, due to the transatlantic slave trade and immigration, contributed to the cultural richness of the Americas. Effective Fall 2019, this course fulfills a single unit in each of the following BU Hub areas: Aesthetic Exploration, Global Citizenship and Intercultural Literacy, Critical Thinking.",
+        "units": "N/A",
+        "schedule": []
+    },
+    {
+        "title": "Topics in Religion and Music",
+        "code": "CAS AA 225",
+        "description": "May be repeated for credit as topics change. Topic for Fall 2019: Religion and Hip Hop Culture. Considers an often overlooked element in the study of hip hop culture, religion. Specifically, the course offers students the opportunity to examine the variety of ways that religion finds expression in the dynamic cultural medium of hip hop.",
+        "units": "N/A",
+        "schedule": []
+    }
+]
